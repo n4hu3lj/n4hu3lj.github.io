@@ -4,7 +4,7 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.4.1"
 
 
-gem "jekyll-theme-console", "~> 0.1"
+gem "jekyll-theme-console"
 
 
 group :jekyll_plugins do
