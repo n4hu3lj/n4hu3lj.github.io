@@ -1,0 +1,10 @@
+---
+layout: page
+title:  /projects/
+date:   2025-10-15 15:05:38 +0000
+categories: projects
+---
+projects: `Highlighted projects:
+1. Homelab
+2.
+-
