@@ -1,8 +1,7 @@
 ---
 layout: page
 title:  /projects/
-date:   2025-10-15 15:05:38 +0000
-categories: projects
+permalink: /projects/
 ---
 projects: `Highlighted projects:
 1. Homelab

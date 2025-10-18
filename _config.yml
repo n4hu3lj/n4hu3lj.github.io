@@ -11,7 +11,7 @@ header_pages:
   - about.md
 
 # estilos: dark, light, hacker, nord
-style: hacker
+style: dark
 listen_for_clients_preferred_style: true
 
 # pie de pag
