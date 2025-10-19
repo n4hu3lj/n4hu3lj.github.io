@@ -7,6 +7,12 @@ gem "jekyll", "~> 4.4.1"
 gem "jekyll-theme-console"
 
 
+gem "csv", "~> 3.3"
+gem "json", "~> 2.15"
+gem "webrick", "~> 1.9"
+gem "bigdecimal", "~> 3.3"
+gem "rake", "~> 13.3"
+
 group :jekyll_plugins do
   gem "jekyll-seo-tag", "~> 2.8"
 end
